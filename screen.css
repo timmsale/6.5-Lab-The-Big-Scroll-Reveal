@@ -1,1 +1,41 @@
 /* Add screen styles below */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display+SC:ital,wght@1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&display=swap');
+
+body{
+    background-color: #fff4ec;
+    color: #967bb6;
+    margin: 0 auto;
+    display: block;
+    font-family: "Playfair Display SC", serif;
+    font-style: italic;
+}
+
+h1{
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-weight: 900;
+    font-size: 4em;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    height: 500px;
+    width: 500px;
+}
+
+p{
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 25px;
+    padding-bottom: 20px;
+    text-transform: lowercase;
+    font-weight: 400;
+    font-size: 1.5em;
+
+}
